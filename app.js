@@ -1,2 +1,2 @@
 const isLogin = ()=> true
-const likePost =()=> return false
+const likePost =()=> {return false}
